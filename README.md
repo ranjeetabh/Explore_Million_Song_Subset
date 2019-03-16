@@ -1,4 +1,4 @@
-# Python_Programming_Project-Musically Yours
+# Python_Programming_Project-Music_File_Processing
 
 This project aims to work with a audio feature CSV file consisting of around ~10,000 records which is a subset of Million Songs Dataset provided by Columbia university and pulled from Echonest (https://labrosa.ee.columbia.edu/millionsong/). The input file will be processed, cleaned and programatically evaluated to generate some visualization plots. The code rubric reflects the following following programming constructs:
 
